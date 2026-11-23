@@ -1,0 +1,61 @@
+restaurant_id,restaurant_name,city,cuisine,cost_for_two,rating,votes,online_order,table_booking
+1,The Great Kitchen,Pune,Italian,500,3.1,859,Yes,No
+2,Royal Kitchen,Mumbai,Italian,500,3.9,237,Yes,No
+3,Punjabi Point,Chandigarh,Fast Food,200,4.4,1327,No,No
+4,Bombay Junction,Hyderabad,Biryani,800,3.0,3132,Yes,No
+5,Delhi Dhaba,Delhi,Beverages,1200,3.9,3120,Yes,No
+6,Sizzling Diner,Chandigarh,Italian,300,2.9,1886,Yes,Yes
+7,Punjabi Tadka,Kolkata,Fast Food,1200,4.1,3008,Yes,No
+8,Delhi Express,Pune,Beverages,300,4.1,1421,Yes,No
+9,Spicy Treats,Pune,Japanese,500,4.2,478,Yes,Yes
+10,Bengal Treats,Pune,South Indian,500,4.7,4666,Yes,No
+11,Hot Treats,Jaipur,Chinese,600,3.1,4618,Yes,No
+12,Grand Treats,Chennai,Italian,400,3.9,764,Yes,Yes
+13,Zaika Hub,Kolkata,Street Food,300,3.6,4901,No,No
+14,Classic Kitchen,Mumbai,Desserts,600,4.4,2806,Yes,No
+15,Golden Hub,Jaipur,North Indian,600,4.8,1483,Yes,No
+16,Fusion Express,Bangalore,Bakery,400,3.9,4364,Yes,No
+17,Hot Kitchen,Mumbai,Japanese,800,4.6,2539,Yes,Yes
+18,Punjabi Bites,Mumbai,Beverages,1200,4.5,4383,Yes,No
+19,Hot Darbar,Bangalore,Fast Food,1000,4.8,4437,Yes,No
+20,Green Diner,Jaipur,Japanese,1200,3.1,1860,Yes,No
+21,Spice Darbar,Hyderabad,Street Food,500,2.8,502,Yes,Yes
+22,Royal Grill,Mumbai,Thai,500,3.4,3996,Yes,No
+23,Grand Adda,Hyderabad,Biryani,1200,4.5,1579,Yes,Yes
+24,Golden Diner,Kolkata,Continental,1200,4.6,463,Yes,Yes
+25,Green Grill,Mumbai,Italian,500,3.2,3695,Yes,No
+26,Curry Dhaba,Jaipur,Italian,300,3.7,4528,Yes,Yes
+27,Classic Kitchen,Mumbai,Japanese,500,3.1,3998,No,No
+28,Green House,Bangalore,Continental,200,4.9,2192,No,No
+29,Golden Darbar,Jaipur,Chinese,500,3.4,499,Yes,No
+30,Royal House,Chandigarh,Mughlai,400,2.9,4180,Yes,No
+31,Urban Bites,Hyderabad,Continental,300,4.8,4686,Yes,Yes
+32,Sizzling Bites,Kolkata,Desserts,800,4.8,1693,Yes,No
+33,Bombay Treats,Bangalore,Desserts,600,3.8,614,Yes,No
+34,Sizzling Tadka,Mumbai,Thai,500,3.9,1105,Yes,Yes
+35,Punjabi Diner,Pune,Chinese,1200,4.6,2498,Yes,No
+36,The Great Junction,Pune,South Indian,300,4.4,1293,Yes,No
+37,Sizzling Express,Chennai,Italian,600,3.9,2077,Yes,Yes
+38,Golden Dhaba,Delhi,North Indian,800,4.4,2165,Yes,No
+39,Classic Bowl,Ahmedabad,North Indian,300,3.0,1241,Yes,No
+40,Grand Darbar,Bangalore,Continental,400,2.9,3007,Yes,No
+41,Tandoori Corner,Mumbai,Bakery,1000,4.8,1286,Yes,No
+42,Curry Bowl,Delhi,Chinese,800,4.4,3392,Yes,No
+43,Curry Tadka,Kolkata,Mexican,200,4.6,1842,Yes,No
+44,Delhi Cafe,Hyderabad,Italian,200,4.2,3284,Yes,No
+45,Urban Dhaba,Chennai,Desserts,1000,4.2,4412,Yes,Yes
+46,The Great Dhaba,Bangalore,Street Food,600,2.9,4907,No,No
+47,Bengal Bowl,Chandigarh,Thai,300,3.6,4743,Yes,No
+48,Royal Bowl,Delhi,Thai,500,3.6,593,Yes,No
+49,The Great Cafe,Ahmedabad,Fast Food,1000,3.5,2442,Yes,No
+50,Golden Treats,Bangalore,Street Food,600,3.7,23,Yes,No
+51,Tandoori Bowl,Chandigarh,Street Food,800,3.8,3642,Yes,No
+52,Curry Bites,Pune,Thai,800,3.0,1944,Yes,No
+53,Tandoori Junction,Delhi,North Indian,500,4.9,616,No,No
+54,Grand Express,Kolkata,Mughlai,1000,3.3,65,Yes,No
+55,Punjabi Hub,Ahmedabad,Mughlai,200,4.0,1014,No,No
+56,Spicy Zone,Ahmedabad,Street Food,800,4.8,3645,No,No
+57,Curry Adda,Jaipur,Fast Food,500,4.6,2291,No,No
+58,Bombay Point,Mumbai,Beverages,600,3.3,2771,Yes,Yes
+59,Zaika Junction,Hyderabad,Continental,400,4.3,546,No,No
+60,Bengal Darbar,Jaipur,Continental,200,3.2,3461,No,Yes
